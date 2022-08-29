@@ -9,12 +9,12 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
+    "command-line-usage": "^6.1.3",
     "moment": "^2.29.4"
   },
   "directories": {
     "lib": "lib"
   },
-  "devDependencies": {},
   "keywords": [],
   "description": ""
 }
